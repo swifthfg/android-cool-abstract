@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androtemp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="btn">btn</string>
+    <string name="logo">logo</string>
+    <string name="bg">bg</string>
+</resources>
